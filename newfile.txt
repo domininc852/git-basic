@@ -1,1 +1,2 @@
 1.What is the difference between git add, git commit and git push?
+	Git add is to put the changed file to stage area.
